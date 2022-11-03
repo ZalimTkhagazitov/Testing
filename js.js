@@ -4,3 +4,5 @@ if (1 > 2){
 
 x = 1;
 y = 2;
+
+s = "Muaed Forever is my little baby"
