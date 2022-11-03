@@ -6,3 +6,4 @@ x = 1;
 y = 2;
 
 s = "Muaed Forever is my little baby"
+z = "Zalik is an absolute beast"
